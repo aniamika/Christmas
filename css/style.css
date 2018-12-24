@@ -21,17 +21,17 @@ section {
     left: 0;
 }
 .snow1 {
-    background-image: url("../images/snow1.png");
+    background-image: url("./images/snow1.png");
     animation: animateOne 15s infinite linear;
     background-size: 700px;
     filter: blur(1px);
 }
 .snow2 {
-    background-image: url("../images/snow2.png");
+    background-image: url("./images/snow2.png");
     animation: animateTwo 15s infinite linear;
 }
 .snow3 {
-    background-image: url("../images/snow3.png");
+    background-image: url("./images/snow3.png");
     animation: animateThree 15s infinite linear;
     background-size: 500px;
 }
